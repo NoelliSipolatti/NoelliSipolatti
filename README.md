@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoelliSipolatti
-- 👀 I’m interested in Data Analyses
-- 🌱 I’m currently learning Tableau
-- 💞️ I’m looking to collaborate on Data Analyses projects
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Tableau/ Power BI
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me - by email: noelli.sipolatti@gmail.com
 
 <!---
